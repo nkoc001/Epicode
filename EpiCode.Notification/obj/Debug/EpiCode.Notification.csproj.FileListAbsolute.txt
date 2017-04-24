@@ -1,0 +1,15 @@
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\bin\Debug\EpiCode.Notification.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\bin\Debug\EpiCode.Notification.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\bin\Debug\Common.Logging.Core.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\bin\Debug\Common.Logging.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\bin\Debug\Spring.Core.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\bin\Debug\Common.Logging.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\bin\Debug\Common.Logging.xml
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\bin\Debug\Common.Logging.Core.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\bin\Debug\Common.Logging.Core.xml
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\bin\Debug\Spring.Core.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\bin\Debug\Spring.Core.xml
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\obj\Debug\EpiCode.Notification.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\obj\Debug\EpiCode.Notification.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\bin\Debug\EpiCode.Notification.dll.config
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification\obj\Debug\EpiCode.Notification.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+Net Stop EmailService.exe

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NotificationModelStoreContainer" CdmEntityContainer="NotificationEntities">
+    <EntitySetMapping Name="NotificationSource">
+      <EntityTypeMapping TypeName="NotificationModel.NotificationSource">
+        <MappingFragment StoreEntitySet="NotificationSource">
+          <ScalarProperty Name="NotificationSourceID" ColumnName="NotificationSourceID" />
+          <ScalarProperty Name="NotificationSourceName" ColumnName="NotificationSourceName" />
+          <ScalarProperty Name="NotificationSourceSenderAddress" ColumnName="NotificationSourceSenderAddress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NotificationStatus">
+      <EntityTypeMapping TypeName="NotificationModel.NotificationStatus">
+        <MappingFragment StoreEntitySet="NotificationStatus">
+          <ScalarProperty Name="NotificationStatusID" ColumnName="NotificationStatusID" />
+          <ScalarProperty Name="NotificationStatusName" ColumnName="NotificationStatusName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NotificatonType">
+      <EntityTypeMapping TypeName="NotificationModel.NotificatonType">
+        <MappingFragment StoreEntitySet="NotificatonType">
+          <ScalarProperty Name="IsEnabled" ColumnName="IsEnabled" />
+          <ScalarProperty Name="NotificationTypeID" ColumnName="NotificationTypeID" />
+          <ScalarProperty Name="NotificationTypeName" ColumnName="NotificationTypeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Notification">
+      <EntityTypeMapping TypeName="NotificationModel.Notification">
+        <MappingFragment StoreEntitySet="Notification">
+          <ScalarProperty Name="LastModified" ColumnName="LastModified" />
+          <ScalarProperty Name="DateTimeCaptured" ColumnName="DateTimeCaptured" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+          <ScalarProperty Name="FK_NotificationStatusID" ColumnName="FK_NotificationStatusID" />
+          <ScalarProperty Name="FK_NotificationSourceID" ColumnName="FK_NotificationSourceID" />
+          <ScalarProperty Name="FK_NotificationTypeID" ColumnName="FK_NotificationTypeID" />
+          <ScalarProperty Name="NotificationRetries" ColumnName="NotificationRetries" />
+          <ScalarProperty Name="NotificatonRecipientName" ColumnName="NotificatonRecipientName" />
+          <ScalarProperty Name="NotificationRecipient" ColumnName="NotificationRecipient" />
+          <ScalarProperty Name="NotificationBody" ColumnName="NotificationBody" />
+          <ScalarProperty Name="NotificationSubject" ColumnName="NotificationSubject" />
+          <ScalarProperty Name="NotificationID" ColumnName="NotificationID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

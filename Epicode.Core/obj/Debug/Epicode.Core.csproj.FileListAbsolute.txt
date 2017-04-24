@@ -1,0 +1,14 @@
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\Epicode.Core\bin\Debug\Epicode.Core.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\Epicode.Core\bin\Debug\Epicode.Core.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\Epicode.Core\obj\Debug\Epicode.Core.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\Epicode.Core\obj\Debug\Epicode.Core.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\Epicode.Core\obj\Debug\Epicode.Core.csprojResolveAssemblyReference.cache
+C:\Dev\EpiCode\Epicode.Core\bin\Debug\Epicode.Core.dll
+C:\Dev\EpiCode\Epicode.Core\bin\Debug\Epicode.Core.pdb
+C:\Dev\EpiCode\Epicode.Core\obj\Debug\Epicode.Core.dll
+C:\Dev\EpiCode\Epicode.Core\obj\Debug\Epicode.Core.pdb
+C:\Dev\EpiCode\Epicode.Core\obj\Debug\Epicode.Core.csprojResolveAssemblyReference.cache
+C:\Dev\EpiCode\Epicode.Core\bin\Debug\Epicode.Interfaces.dll
+C:\Dev\EpiCode\Epicode.Core\bin\Debug\Epicode.Interfaces.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\Epicode.Core\bin\Debug\Epicode.Interfaces.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\Epicode.Core\bin\Debug\Epicode.Interfaces.pdb

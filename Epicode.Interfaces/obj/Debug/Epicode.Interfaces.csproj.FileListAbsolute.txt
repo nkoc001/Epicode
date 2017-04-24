@@ -1,0 +1,8 @@
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\Epicode.Interfaces\bin\Debug\Epicode.Interfaces.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\Epicode.Interfaces\bin\Debug\Epicode.Interfaces.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\Epicode.Interfaces\obj\Debug\Epicode.Interfaces.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\Epicode.Interfaces\obj\Debug\Epicode.Interfaces.pdb
+C:\Dev\EpiCode\Epicode.Interfaces\bin\Debug\Epicode.Interfaces.dll
+C:\Dev\EpiCode\Epicode.Interfaces\bin\Debug\Epicode.Interfaces.pdb
+C:\Dev\EpiCode\Epicode.Interfaces\obj\Debug\Epicode.Interfaces.dll
+C:\Dev\EpiCode\Epicode.Interfaces\obj\Debug\Epicode.Interfaces.pdb

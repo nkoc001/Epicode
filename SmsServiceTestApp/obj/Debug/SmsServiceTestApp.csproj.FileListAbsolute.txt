@@ -1,0 +1,49 @@
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\SmsServiceTestApp.exe.config
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\SmsServiceTestApp.exe
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\SmsServiceTestApp.pdb
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Interfaces.dll
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Notification.Processor.dll
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\EpiCode.Notification.SMS.dll
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Notification.Factory.dll
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.DAL.dll
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Notification.Email.dll
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\EntityFramework.dll
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Interfaces.pdb
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Notification.Processor.pdb
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\EpiCode.Notification.SMS.pdb
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Notification.Factory.pdb
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.DAL.pdb
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Notification.Email.pdb
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\EntityFramework.xml
+C:\Dev\EpiCode\SmsServiceTestApp\obj\Debug\SmsServiceTestApp.csprojResolveAssemblyReference.cache
+C:\Dev\EpiCode\SmsServiceTestApp\obj\Debug\SmsServiceTestApp.exe
+C:\Dev\EpiCode\SmsServiceTestApp\obj\Debug\SmsServiceTestApp.pdb
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Core.dll
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Core.pdb
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\EpiCode\SmsServiceTestApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\SmsServiceTestApp.exe.config
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\SmsServiceTestApp.exe
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\SmsServiceTestApp.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\EntityFramework.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Interfaces.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Notification.Processor.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\EpiCode.Notification.SMS.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.DAL.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Notification.Factory.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Core.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Notification.Email.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Interfaces.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Notification.Processor.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\EpiCode.Notification.SMS.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\EntityFramework.xml
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.DAL.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Notification.Factory.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Core.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Epicode.Notification.Email.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\obj\Debug\SmsServiceTestApp.csprojResolveAssemblyReference.cache
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\obj\Debug\SmsServiceTestApp.exe
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\obj\Debug\SmsServiceTestApp.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\SmsServiceTestApp\bin\Debug\Topshelf.dll

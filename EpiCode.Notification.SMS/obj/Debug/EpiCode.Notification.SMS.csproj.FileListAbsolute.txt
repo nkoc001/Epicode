@@ -1,0 +1,18 @@
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification.SMS\bin\Debug\EpiCode.Notification.SMS.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification.SMS\bin\Debug\EpiCode.Notification.SMS.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification.SMS\obj\Debug\EpiCode.Notification.SMS.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification.SMS\obj\Debug\EpiCode.Notification.SMS.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification.SMS\obj\Debug\EpiCode.Notification.SMS.csprojResolveAssemblyReference.cache
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification.SMS\bin\Debug\Epicode.Interfaces.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification.SMS\bin\Debug\Epicode.Interfaces.pdb
+C:\Dev\EpiCode\EpiCode.Notification.SMS\bin\Debug\EpiCode.Notification.SMS.dll
+C:\Dev\EpiCode\EpiCode.Notification.SMS\bin\Debug\EpiCode.Notification.SMS.pdb
+C:\Dev\EpiCode\EpiCode.Notification.SMS\bin\Debug\Epicode.Interfaces.dll
+C:\Dev\EpiCode\EpiCode.Notification.SMS\bin\Debug\Epicode.Interfaces.pdb
+C:\Dev\EpiCode\EpiCode.Notification.SMS\obj\Debug\EpiCode.Notification.SMS.csprojResolveAssemblyReference.cache
+C:\Dev\EpiCode\EpiCode.Notification.SMS\obj\Debug\EpiCode.Notification.SMS.dll
+C:\Dev\EpiCode\EpiCode.Notification.SMS\obj\Debug\EpiCode.Notification.SMS.pdb
+C:\Dev\EpiCode\EpiCode.Notification.SMS\bin\Debug\Epicode.Core.dll
+C:\Dev\EpiCode\EpiCode.Notification.SMS\bin\Debug\Epicode.Core.pdb
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification.SMS\bin\Debug\Epicode.Core.dll
+C:\Users\nkoc\Documents\Visual Studio 2013\Projects\EpiCode\EpiCode.Notification.SMS\bin\Debug\Epicode.Core.pdb
