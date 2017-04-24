@@ -1,1 +1,0 @@
-SmsServiceTestApp.exe uninstall
